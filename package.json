@@ -1,0 +1,11 @@
+{
+  "name": "gds-instructions-interpreter",
+  "version": "1.0.0",
+  "description": "Utility for interpreting GDS Instructions.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Ramirez Arredondo",
+  "license": "ISC"
+}
